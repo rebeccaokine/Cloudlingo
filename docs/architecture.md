@@ -26,3 +26,9 @@ Cloudlingo is a serverless, event-driven pipeline for translating text files usi
 * Fully automated (no manual translation)
 * Event-driven and cost-efficient
 * Built entirely within AWS Free Tier limits
+
+## Diagram
+
+The diagram below shows how Cloudlingo uses S3, Lambda, and AWS Translate in a fully serverless pipeline:
+
+![Cloudlingo Architecture](cloudlingo.drawio.png)
