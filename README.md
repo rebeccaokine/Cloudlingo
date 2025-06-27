@@ -23,9 +23,9 @@ Cloudlingo/
 │ ├── troubleshooting.md
 │ ├── usage-guide.md
 │ └── workflow.md
-├── scripts/ # Python scripts
+├── scripts/
 │ ├── lambda_handler.py
-│ └── translate.py # Manual test script
+│ └── translate.py
 ├── terraform/
 │ ├── main.tf
 │ ├── outputs.tf
